@@ -25,7 +25,6 @@ This project extends an elephant population model to automatically find the **da
 - `src/` – simulation + optimization scripts
 - `data/` – CSV outputs from parameter sweeps
 - `figures/` – generated plots
-- `report/` – written report
 
 ## How to run
 Run the parameter sweep script (generates CSV and PNG outputs):
